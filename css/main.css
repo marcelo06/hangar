@@ -182,7 +182,7 @@ footer{
   padding: 2px 15px;
   font-weight: 300;
   position: absolute;
-  top: 540px;
+  top: 584px;
     
   
   
@@ -219,7 +219,7 @@ aside{
   bottom: 5px;
   display: table-cell;
   position: relative;
-  height: 544px;
+  height: 571px;
   width: 260px;
 
 }    
@@ -260,6 +260,19 @@ aside{
   height: 540px;
 }
 
+#contenido-ajax article h2{
+    text-align: center;
+}
+
+#img-logo{
+    height: 250px;
+    margin: 0px 35%;
+    width: 300px;
+}
+
+#contenido-ajax article p{
+    text-align: justify;
+}
 
 
 
