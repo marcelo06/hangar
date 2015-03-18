@@ -178,7 +178,7 @@ footer{
     line-height: 50px;
     width: 100%;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    padding: 0 15px;
+    padding: 5px 15px;
     font-weight: 300;
 }
 
@@ -212,7 +212,7 @@ aside{
   position: relative;
   top: 0px;
   padding: 16px;
-  height: 800px;
+  height: 500px;
 }    
 
 #seleccion-u{
@@ -225,13 +225,7 @@ aside{
 
 #lista-u{
     list-style:  none;
-    -webkit-margin-before: 1em;
-  -webkit-margin-after: 1em;
-  -webkit-margin-start: 0px;
-  -webkit-margin-end: 0px;
-  -webkit-padding-start: 40px;
 }
-
 #lista-u li{
     padding: 10px;
 }       
