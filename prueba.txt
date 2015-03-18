@@ -4,4 +4,9 @@ quiero ver que error sale
 Estoy modificando el archivo prueba en mi pc "Marcelo"
 
 Esperando por lo que subio brandon
+<<<<<<< HEAD
 prueba: que hace el diff?
+=======
+
+esperando que no se dañe
+>>>>>>> 6768519670a2277acdea46ef1a7b90b165a6322d
