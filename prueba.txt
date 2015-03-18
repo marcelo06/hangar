@@ -1,2 +1,7 @@
 estoy haciendo una prueba en el pc Brandon
+<<<<<<< HEAD
 quiero ver que error sale
+=======
+
+Estoy modificando el archivo prueba en mi pc "Marcelo"
+>>>>>>> 16e404ca9d265f65c14195935a099a04fc996557
