@@ -206,6 +206,46 @@ footer div h3{
 
 }
 
+aside{
+  width: 230px;
+  background: #C2030F;
+  position: relative;
+  top: 0px;
+  padding: 16px;
+  height: 800px;
+}    
+
+#seleccion-u{
+    width: 302px;
+    position: relative;
+    right: 56px;
+    bottom: 32px;
+
+}
+
+#lista-u{
+    list-style:  none;
+    -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-start: 40px;
+}
+
+#lista-u li{
+    padding: 10px;
+}       
+#lista-u li:hover{
+    background: #8D2D32;
+    
+}
+
+#lista-u li a{  
+    text-decoration: none;
+    color: white;
+
+}
+
 
 
 
