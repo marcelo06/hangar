@@ -4,4 +4,4 @@ quiero ver que error sale
 Estoy modificando el archivo prueba en mi pc "Marcelo"
 
 Esperando por lo que subio brandon
-
+prueba: que hace el diff?
