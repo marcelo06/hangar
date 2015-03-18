@@ -95,7 +95,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 #home-nav{
-    background-color: #367fa9;
+    background-color: #760209;
     border-bottom: 0 solid transparent;
     color: #fff;
 
@@ -132,7 +132,7 @@ textarea {
 }
 
 #menu-nav{
-    background-color: #3c8dbc;
+    background-color: #760209;
     display: block;
    
 }
@@ -167,8 +167,44 @@ textarea {
 
 }
 
+footer{
+    background-color: #C23E46;
+    border-bottom: 0 solid transparent;
+    color: #fff;
 
+    display: block;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    width: 100%;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding: 0 15px;
+    font-weight: 300;
+}
 
+footer div h3{
+
+    margin: auto;
+    width: 20%;
+    float: left;
+}
+
+#img-tostion{
+
+    margin: 0.5%;
+    width: 32px;
+    height: 32px;
+    float: left
+
+}
+
+#img-cont{
+
+    margin: 0.5%;
+    width: 10%;
+    float: left;t;
+
+}
 
 
 
