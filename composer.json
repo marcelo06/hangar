@@ -1,0 +1,13 @@
+{
+    "name": "cristianmarce6/hangar",
+    "description": "Hangar: app to sharing knowledge",
+    "type": "project",
+    "license": "propietary",
+    "authors": [
+        {
+            "name": "cristianmarce6",
+            "email": "cristianmarce6@gmail.com"
+        }
+    ],
+    "require": {}
+}
